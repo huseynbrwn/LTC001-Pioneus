@@ -9,6 +9,7 @@ public class MultiplicationTable {
             int result = number * i;
             System.out.println(number + " * " + i + " = " + result);
 
+            // salam
         }
     }
 }
