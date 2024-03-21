@@ -33,6 +33,7 @@ public class GuessTheNumber {
 
                 if (attempts == 0) {
                     System.out.println("You've run out of attempts!");
+                    System.out.println("The target number was: " + targetNumber);
                 }
             }
         }
